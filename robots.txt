@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bozic-djordje.github.io/al-folio/sitemap.xml
+Sitemap: https://bozic-djordje.github.io/sitemap.xml
