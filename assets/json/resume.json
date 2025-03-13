@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "Department of Computer Science, University of Bath",
-      "location": "Bath, United Kingdom",
+      "location": "Bath, UK",
       "url": "https://cdt-art-ai.ac.uk",
       "area": "Accountable, Responsible, and Transparent AI ",
       "studyType": "PhD",
@@ -42,10 +42,11 @@
     },
     {
       "institution": "Department of Computer Science, University of Bath",
-      "location": "Bath, United Kingdom",
+      "location": "Bath, UK",
       "url": "https://cdt-art-ai.ac.uk",
       "area": "Accountable, Responsible, and Transparent AI ",
       "studyType": "MSc",
+      "startDate": "2023",
       "endDate": "2024",
       "courses": ["Bayesian Machine Learning", "Robotics Software", "AI as a Social and Political Practice"]
     },
@@ -55,6 +56,7 @@
       "url": "https://www.etf.bg.ac.rs/en",
       "area": "Applied Mathematics",
       "studyType": "MSc",
+      "startDate": "2019",
       "endDate": "2021",
       "courses": ["Machine Learning", "Artificial Intelligence", "Probability and Statistics"]
     },
@@ -64,6 +66,7 @@
       "url": "https://www.etf.bg.ac.rs/en",
       "area": "Computer Engineering and Informatics",
       "studyType": "BSc",
+      "startDate": "2013",
       "endDate": "2019",
       "courses": ["Linear Algebra", "Calculus", "Numerical and Discrete Mathematics", "Probability and Statistics", "Artificial Intelligence", "Operating Systems", "Compilers", "Object-Oriented Programming", "Concurrent and Distributive Programming", "Software Design", "Cryptography"]
     }
@@ -101,7 +104,7 @@
       "organization": "Practical Seminar in Machine Learning",
       "position": "Unit Convenor",
       "url": "https://psiml.pfe.rs",
-      "startDate": "2021-08-01",
+      "startDate": "2021",
       "summary": "Unit convenor for Reinforcement Learning, with occasional involvement in summer school organization."
     }
   ],
