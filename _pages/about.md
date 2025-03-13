@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>db2246@bath.ac.uk</p>
-    <p>1 West 4.56</p>
+    <p>office: 1W 4.56</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
